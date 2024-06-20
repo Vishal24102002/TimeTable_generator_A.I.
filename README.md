@@ -4,6 +4,7 @@ This project consists of an app which is connected to backend API where the logi
 <h2>Technology used</h2>
 
 <h2>API LINK</h2>
+<p>*Note !!! Link cannot be used without the android application as information can only be entered through app or GoogleSheet</p>
 <h2>App ScreenShots</h2>
 
 
