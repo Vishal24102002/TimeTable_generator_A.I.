@@ -1,4 +1,4 @@
-# TimeTable
+# TimeTable Generator A.I.
 
 <h2>Project Overview</h2>
 <ol>
