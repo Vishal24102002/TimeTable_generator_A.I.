@@ -82,7 +82,12 @@ Ability to integrate with existing systems like student information systems (SIS
       <li>Pradeep Araya <b>(Developer)</b></li>
     </ol>    
 <h2>App ScreenShots</h2>
-<img src="Images/Img1.jpg">
+<p>
+<img width=200px src="Images/Img1.jpg">
+<img width=200px src="Images/Img2.jpg">
+<img width=200px src="Images/Img3.jpg">
+<img width=200px src="Images/Img4.jpg">
+</p>
 
 <h2>Links</h2>
 <b><span style="color:red;">*Note !!! Link cannot be used without the android application as information can only be entered through App or GoogleSheet</span></b>
