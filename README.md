@@ -78,8 +78,8 @@ Ability to integrate with existing systems like student information systems (SIS
 </ol>
 <h2>Contributors</h2>
     <ol>
-      <li><a href="https://github.com/coderx-raj">Raj Kumar Yadav <b>(Android-Developer)</b></a></li>
-      <li>Pradeep Araya <b>(Developer)</b></li>
+      <li><a href="https://github.com/coderx-raj">Raj Kumar Yadav </a><b>(Android-Developer)</b></li>
+      <li><a href="https://github.com/Pradeep313">Pradeep Araya </a><b>(Developer)</b></li>
     </ol>    
 <h2>App ScreenShots</h2>
 <p>
